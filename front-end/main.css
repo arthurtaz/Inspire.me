@@ -1,12 +1,15 @@
-.logo {
+header {
+    background: #C3EFD5;
     position: absolute;
     width: 100%;
     height: 120px;
     left: 0px;
     top: 0px;
-    background: #C3EFD5;
 }
-h1 {
-    size: 30px;
-    word-spacing: 53px;
+ul {
+    list-style: none;
+    
+}
+a {
+    color: black;
 }
