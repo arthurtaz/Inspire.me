@@ -1,0 +1,110 @@
+#main-page{
+    width: 100%;
+    height: 900px;
+    background-color: chartreuse;
+    background-attachment: fixed;
+    margin-top: -2%;
+}
+header{
+    background-color:aqua;
+    height: 100px;
+    object-fit: cover;
+}
+#menu{
+    display: inline;
+    padding-left: 10px;
+}
+.li{
+    display: inline;
+}
+.option-on{
+    margin-left: 10%;
+    color: blue;
+    font-size: 30px;
+    text-decoration: none;
+}
+.sign-in{
+    color: saddlebrown;
+    margin-left: 10%;
+    background-color: darkgray;
+    border-radius: 10%;
+    width: 70px;
+    height: 8px;
+    font-size: 30px;
+    text-decoration: none;
+}
+.sign-up{
+    color: saddlebrown;
+    margin-left: 10%;
+    background-color: darkgray;
+    border-radius: 10%;
+    width: 70px;
+    height: 8px;
+    font-size: 30px;
+    text-decoration: none;
+}
+.headtree
+{
+    background-color: azure;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin-top:0%;
+    margin-left:10%;
+    border: 2px solid black;
+    border-image: linear-gradient(20deg, #f92056 38%, #00deff 65%);
+    border-image-slice: 1;
+    
+}
+.headtree img{
+    height: 200px;
+    width: 300px;
+}
+.hand
+{
+    background-color: azure;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 40%;
+    border: 2px solid black;
+    border-image: linear-gradient(20deg, #f92056 38%, #00deff 65%);
+    border-image-slice: 1;
+    
+}
+.hand img
+{
+    height: 200px;
+    width: 300px;
+    align-items: center;
+}
+.progress
+{
+    background-color: azure;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    border: 2px solid black;
+    border-image: linear-gradient(20deg, #f92056 38%, #00deff 65%);
+    border-image-slice: 1;
+    margin-left: 70%;
+    
+}
+.progress img{
+    height: 200px;
+    width: 300px;
+}
+.succes
+{
+
+
+   margin-left: 35%;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px
+}
+.succes strong
+{
+    font-size: 40px;}
+   
